@@ -1,6 +1,5 @@
-# LocalRepoProject1
-ALX Project
-mkdir hello.txt
+# LocalRepoProject
+ hello.txt
 cd hello, Git and GitHub!
 git init
 git add Hello.txt
